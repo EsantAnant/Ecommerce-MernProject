@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE Project
 
 This is a Ecommerce website made by Esant Kumar.
               To create this website I used Mongodb,Express.js,React.js and Node.js.
