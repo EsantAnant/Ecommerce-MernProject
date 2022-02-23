@@ -1,6 +1,7 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Esant Kumar**, I have created this tutorial to teach MERN Stack for free on YouTube.
+This is a Ecommerce website made by Esant Kumar.
+              To create this website I used Mongodb,Express.js,React.js and Node.js.
 
 
 
